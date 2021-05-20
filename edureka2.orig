@@ -1,13 +1,11 @@
 Hi
-HEAD
+<<<<<<< HEAD
 This is the second file
 
 trying for conflicts
-
+=======
 This is the second file``
-
-Adding one more line
 
 Regards
 Eswar Teja
-
+>>>>>>> 279587e78e6a9477a8817f9dad216921351c382c
